@@ -12,9 +12,9 @@ The **Type or Loose It Study Helper App** is a desktop application built with Tk
 - **Quit Button**: Provides a button to exit the application.
 
 ## Code Explanation
-- **Window Creation: Sets up the main window and frames.
-- **Image Handling: Attempts to load and display an image.
-- **Text Entry: Provides a text area for user input.
-- **Input Monitoring: Uses a timer to check input and clear text if necessary.
-- **Event Binding: Updates the last input time on key presses.
-- **Quit Functionality: Allows the user to close the application.
+- **Window Creation**: Sets up the main window and frames.
+- **Image Handling**: Attempts to load and display an image.
+- **Text Entry**: Provides a text area for user input.
+- **Input Monitoring**: Uses a timer to check input and clear text if necessary.
+- **Event Binding**: Updates the last input time on key presses.
+- **Quit Functionality**: Allows the user to close the application.
